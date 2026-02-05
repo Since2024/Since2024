@@ -45,8 +45,7 @@ Currently learning to System design and build AI agents while solving small, rea
 ### Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Since2024&show_icons=true&hide_border=true&theme=transparent&title_color=FFFFFF&text_color=A9AFC1&icon_color=FFFFFF&bg_color=00000000" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Since2024&theme=transparent&hide_border=true&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=A9AFC1&sideLabels=A9AFC1&dates=A9AFC1&background=00000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Since2024&show_icons=true&hide_border=true&title_color=FFFFFF&text_color=A9AFC1&icon_color=6E57E0&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Since2024&theme=dark&hide_border=true&stroke=FFFFFF&ring=6E57E0&fire=6E57E0&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=A9AFC1&sideLabels=A9AFC1&dates=A9AFC1&background=0D1117" />
 </div>
-
 <br/>
