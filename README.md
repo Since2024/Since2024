@@ -21,7 +21,7 @@ Currently learning to System design and build AI agents while solving small, rea
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,c,ts,js,react,nodejs,express,mongodb,mysql,latex,linux,git,postman,docker" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,c,ts,js,react,nodejs,express,mongodb,mysql,latex,linux,git,docker" />
   </a>
 </p>
 
@@ -36,7 +36,7 @@ Currently learning to System design and build AI agents while solving small, rea
 ### Philosophy
 
 > I am not what you seek —  
-> I am what forms when seeking ends.  
+> I am what forms when seeking ends.
 >  
 > **I see. I imagine. I construct.** > What I build becomes inevitable.
 
