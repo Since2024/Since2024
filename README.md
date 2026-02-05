@@ -1,51 +1,37 @@
 <div align="center">
-  <img width="320" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/main.gif"/>
-  <br/><br/>
+  <img width="400" src="https://raw.githubusercontent.com/Since2024/Since2024/main/assets/main.gif"/>
+  <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&duration=1800&pause=3000&color=E0DFF1&center=true&vCenter=true&repeat=false&width=800&height=60&lines=I+build+what+does+not+yet+exist." alt=""/>
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=38&duration=2000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=I+Aim+BUILD+WHAT+DOES+NOT+YET+EXIST.;ARCHITECTING+THE+INEVITABLE." alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-### About
+### About Me
 
-I am a software engineer and system thinker focused on **creation, not consumption**.  
-Currently learning to build **autonomous agent-based AI systems** while working as a **full-stack developer**.
+I am a technology enthusiast and system breaker drawn to how things work, and how they can work better.
+An aspirant software engineer and entrepreneur, focused on learning by building, not pretending.
 
-I design software to solve **real problems in Nepal**, not theoretical ones.
-
+Currently learning to System design and build AI agents while solving small, real problems through code.
 ---
 
-### Current Work
+### I Play With
 
-- Autonomous **Agent AI** (architecture, reasoning, tooling)
-- **Auto Form Fill-up System** for government & institutional workflows
-- **Transportation Service Platform** (logistics, routing, coordination)
-- Scalable backend systems with practical constraints in mind
-
----
-
-### Tech Stack
-
-**Languages**
-- Python · C++ · C · JavaScript
-
-**Frontend**
-- React.js
-
-**Backend / Stack**
-- Node.js · Express.js · MERN
-
-**Database**
-- MySQL · MongoDB
-
-**Concepts**
-- System design  
-- Automation  
-- AI agents & orchestration  
-- Problem-first engineering
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-000000?style=for-the-badge&logo=diagrams.net&logoColor=white)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6E57E0?style=for-the-badge&logo=openai&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-FF4B4B?style=for-the-badge&logo=zapier&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ---
 
 ### Philosophy
@@ -53,31 +39,16 @@ I design software to solve **real problems in Nepal**, not theoretical ones.
 > I am not what you seek —  
 > I am what forms when seeking ends.  
 >  
-> I see. I imagine. I construct.  
->  
+> **I see. I imagine. I construct.** >  
 > What I build becomes inevitable.
-
----
-
-### Signal
-
-I do not optimize for attention.  
-I optimize for **capability**.
 
 ---
 
 ### Stats
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&text_color=E0DFF1&icon_color=6E57E0" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=6E57E0&fire=6E57E0&currStreakLabel=E0DFF1&currStreakNum=E0DFF1&sideNums=E0DFF1&sideLabels=E0DFF1&dates=8A8A8A" />
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Since2024&show_icons=true&hide_border=true&theme=transparent&title_color=FFFFFF&text_color=A9AFC1&icon_color=FFFFFF&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Since2024&theme=transparent&hide_border=true&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=A9AFC1&sideLabels=A9AFC1&dates=A9AFC1&background=00000000" />
 </div>
 
----
-
-<div align="center">
-  <sub>Creation is the only proof of thought.</sub>
-</div>
+<br/>
