@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="400" src="https://c.tenor.com/zKEOtiuaB3YAAAAd/tenor.gif" />
+  <img width="350" src="https://c.tenor.com/zKEOtiuaB3YAAAAd/tenor.gif" />
   <br/><br/>
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=36&duration=2000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=I+BUILD+WHAT+DOES+NOT+YET+EXIST.;ARCHITECTING+THE+INEVITABLE."
+      src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=36&duration=2000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=AIM+TO+BUILD+WHAT+DOES+NOT+YET+EXIST.;ARCHITECTING+THE+INEVITABLE."
       alt=""
     />
   </a>
@@ -11,9 +11,9 @@
 
 ---
 
-### About
+### About Me
 
-I am a technology enthusiast and system breaker drawn to how things work — and how they can work better.  
+I am a technology enthusiast and system breaker drawn to how things work and how they can work better.  
 An aspirant software engineer and entrepreneur, focused on learning by building, not pretending.
 
 Currently learning **system design** and building **AI agents**, while solving small, real problems through code.
