@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="320" src="https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8" />
+  <img width="320" src="https://media.tenor.com/Un0Zb7j1W4AAAAAC/astronaut-space.gif
+" />
   <br/><br/>
   <a href="https://git.io/typing-svg">
     <img
