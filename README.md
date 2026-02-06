@@ -1,6 +1,5 @@
 <div align="center">
-  <img width="400" src="https://media.tenor.com/Un0Zb7j1W4AAAAAC/astronaut-space.gif
-" />
+  <img width="400" src="https://c.tenor.com/zKEOtiuaB3YAAAAd/tenor.gif" />
   <br/><br/>
   <a href="https://git.io/typing-svg">
     <img
