@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="400" src="https://raw.githubusercontent.com/Since2024/Since2024/main/assets/main.gif" />
+  <img width="320" src="https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8" />
   <br/><br/>
   <a href="https://git.io/typing-svg">
     <img
