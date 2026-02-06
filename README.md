@@ -11,7 +11,7 @@
 
 ---
 
-### About Me
+### About
 
 I am a technology enthusiast and system breaker drawn to how things work — and how they can work better.  
 An aspirant software engineer and entrepreneur, focused on learning by building, not pretending.
