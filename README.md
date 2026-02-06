@@ -1,9 +1,9 @@
 <div align="center">
-  <img width="350" src="https://c.tenor.com/zKEOtiuaB3YAAAAd/tenor.gif" />
+  <img height="300" width="350" src="https://c.tenor.com/zKEOtiuaB3YAAAAd/tenor.gif" />
   <br/><br/>
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=36&duration=2000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=AIM+TO+BUILD+WHAT+DOES+NOT+YET+EXIST.;ARCHITECTING+THE+INEVITABLE."
+      src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=36&duration=2000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=AIM+TO+BUILD+WHAT+DOES+NOT+YET+EXIST;ARCHITECTING+THE+INEVITABLE."
       alt=""
     />
   </a>
