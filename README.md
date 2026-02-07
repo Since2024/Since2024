@@ -3,7 +3,7 @@
   <br/><br/>
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=36&duration=2000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=AIM+TO+BUILD+WHAT+DOES+NOT+YET+EXIST;ARCHITECTING+THE+INEVITABLE."
+      src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=36&duration=2000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=800&height=70&lines=MY+NAME+IS+HASAN;I+AIM+TO+BUILD+WHAT+DOES+NOT+YET+EXIST;ARCHITECTING+THE+INEVITABLE."
       alt=""
     />
   </a>
