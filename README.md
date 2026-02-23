@@ -57,11 +57,13 @@ Currently learning **system design** and building **AI agents**, while solving s
 ### Stats
 
 <div align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=Since2024&show_icons=true&hide_border=true&theme=transparent&title_color=FFFFFF&text_color=A9AFC1&icon_color=FFFFFF" />
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api?username=Since2024&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=A9AFC1&icon_color=FFFFFF" 
+       alt="Since2024's GitHub Stats" />
 
-  <img height="180em"
-       src="https://github-readme-streak-stats.herokuapp.com?user=Since2024&theme=transparent&hide_border=true&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=A9AFC1&sideLabels=A9AFC1&dates=A9AFC1" />
+  <img height="180em" 
+       src="https://github-readme-streak-stats.herokuapp.com?user=Since2024&theme=transparent&hide_border=true&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&currStreakNum=FFFFFF&sideNums=A9AFC1&sideLabels=A9AFC1&dates=A9AFC1" 
+       alt="GitHub Streak" />
 </div>
 
 ---
