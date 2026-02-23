@@ -53,12 +53,11 @@ Currently learning **system design** and building **AI agents**, while solving s
 > What I build becomes inevitable.
 
 ---
+
 <div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Since2024&theme=dark" alt="3D Skyline Contribution Graph" />
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3D Skyline" />
 </div>
-<div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Since2024&theme=github" alt="3D Skyline Contribution Graph" />
-</div>
+
 ---
 
 ### Stats
