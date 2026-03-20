@@ -16,7 +16,7 @@
 I am a technology enthusiast and system breaker drawn to how things work and how they can work better.  
 An aspirant software engineer and entrepreneur, focused on learning by building, not pretending.
 
-Currently learning **system design** and building **AI agents**, while solving small, real problems through code.
+Currently learning **system design** and how to building **AI agents**, while solving small, real problems through code.
 
 ---
 
