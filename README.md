@@ -47,7 +47,7 @@ Currently learning **system design** and how to building **AI agents**, while so
 ### Philosophy
 
 > I am not what you seek.  
-> I am what forms when seeking ends.  
+>  
 >  
 > **I see. I imagine. I construct.**  
 > What I build becomes inevitable.
