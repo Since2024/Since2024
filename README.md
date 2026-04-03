@@ -47,7 +47,8 @@ Currently learning **system design** and how to building **AI agents**, while so
 ### Philosophy
 
 > I am not what you seek.  
->  
+> Life is Suffering **-Buddha.
+> So I choose my own suffering.
 >  
 > **I see. I imagine. I construct.**  
 > What I build becomes inevitable.
