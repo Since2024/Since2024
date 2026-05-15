@@ -20,14 +20,6 @@ Currently learning **system design** and how to building **AI agents**, while so
 
 ---
 
-### Current Work
-
-- **AI Agent Systems** — reasoning, orchestration, autonomy  
-- **1st-Child** → Auto Form Fill-up App  
-- **DriveUp** → Transportation Service App  
-
----
-
 ### I Play With
 
 <p align="left">
